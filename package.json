@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kabojnk/tukki/issues"
   },
-  "homepage": "https://github.com/kabojnk/tukki#readme"
+  "homepage": "https://github.com/kabojnk/tukki#readme",
+  "dependencies": {
+    "debug": "^2.6.0"
+  }
 }
