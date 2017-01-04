@@ -1,0 +1,24 @@
+{
+  "name": "tukki",
+  "version": "0.1.0",
+  "description": "A simple tiered logging utility based on debug.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabojnk/tukki.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "debug"
+  ],
+  "author": "Kevin Mahoney <kabojnk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabojnk/tukki/issues"
+  },
+  "homepage": "https://github.com/kabojnk/tukki#readme"
+}
